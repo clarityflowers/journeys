@@ -1,0 +1,33 @@
+{
+  "name": "restless",
+  "version": "1.0.0",
+  "description": "React routing for the weary traveler",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarityflowers/restless.git"
+  },
+  "author": "Clarity Flowers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarityflowers/restless/issues"
+  },
+  "homepage": "https://github.com/clarityflowers/restless#readme",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "history": "^4.7.2",
+    "qs": "^6.6.0",
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.7",
+    "@types/qs": "^6.5.1",
+    "@types/react": "^16.8.2",
+    "@types/history": "^4.7.2",
+    "typescript": "^3.1.6"
+  }
+}
